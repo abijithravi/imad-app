@@ -22,9 +22,7 @@ body {
 #combox{
     height: 1in;
     width: 1.5in;
-    ::-moz-placeholder{
-    opacity:1;
-}
+   
      
     
 }
