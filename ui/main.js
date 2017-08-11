@@ -13,6 +13,6 @@ submit.onClick = function(){
         
     }
 var ul = getElementbyId('comlist');
-ul.inertHTML = list;
+ul.innerHTML = list;
     
 };
