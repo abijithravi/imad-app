@@ -1,8 +1,8 @@
 console.log('Loaded!');
 //submit comments
-var commentInput = doucument.getElementById('combox');
+var commentInput = document.getElementById('combox');
 var comment = commentInput.value;
-var submit  = doucument.getElementById('submit_btn');
+var submit  = document.getElementById('submit_btn');
 submit.onClick = function(){
     
     
